@@ -1,0 +1,19 @@
+
+
+
+ /* Footer Css for all pages */
+
+ .footer h4 {
+    color: #bf506d;
+ }
+ .socials {
+    padding: 10pt;
+ }
+
+ .socials a {
+    justify-content: center;
+    text-decoration: none;
+    align-items: center;
+    padding-left: 10pt;
+    color: #627cab;
+ }
