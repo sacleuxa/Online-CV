@@ -43,6 +43,12 @@
 
 }
 
+.about__aboutpage container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* Experience section */
 
 .competence {
