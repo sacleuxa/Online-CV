@@ -43,10 +43,16 @@
 
 }
 
-.about__aboutpage container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.paragraph__aboutme {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+.h3  {
+    margin-top: 15px;
+    font-size: medium;
+    font-weight: 200;
 }
 
 /* Experience section */
@@ -71,6 +77,10 @@
     transition: all .3s;
 }
 
+.card-img-top {
+    height: 286px;
+    width: 273px;
+}
 /* Contact Page Css */
 .mainsection {
     padding-top: 50px;
